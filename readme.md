@@ -1,1 +1,1 @@
-HI. this is my first repository.
+Hi, my name is Shubham. This is my first GitHub Repository.
