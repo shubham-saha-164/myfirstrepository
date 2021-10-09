@@ -11,3 +11,5 @@ This is my first **GitHub Repository**.
 ## My Picture
 
 This is how I look! 😄
+
+![Shubham's Picture](https://i.imgur.com/SmR4dfbm.png)
